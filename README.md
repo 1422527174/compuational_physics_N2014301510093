@@ -1,7 +1,7 @@
 # compuational-physics-N2014301510094
 # Homework list
 ## Exercise-03:[All levels]()
-## Exercise-04:[Chapter 1 problem 1.5:The decay of two kinds of particles]()
+## Exercise-04:[Chapter 1 problem 1.5:The decay of two kinds of particles](https://www.zybuluo.com/mdeditor#513345)
 ## Exercise-05:[Chapter 1 problem 1.6：Population growth]()
 ## Exercise-06:[Chapter 2 problem 2.9&2.10:The cannon]()
 ## Exercise-07:[Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball]()
